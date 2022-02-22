@@ -1,4 +1,4 @@
-# GDA_capstone_case_study
+# Bellabeat Case Study: Market Analysis
 Google data analytics capstone project R code.
 
 This repository contains the R code I created for the capstone project from the Coursera course: Google Data Analytics Professional Certificate.
